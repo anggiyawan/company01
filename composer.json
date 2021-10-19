@@ -1,0 +1,7 @@
+{
+    "name": "ggie/company01",
+    "description": "Company Template 01",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT"
+}
